@@ -1,0 +1,56 @@
+body {
+  margin: 0;      /* Remove any default body margins */
+  padding: 0;     /* Remove any default body padding (optional) */
+}
+
+footer {
+  background-color: #81D8D0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Source Code Pro', monospace;
+  padding: 30px;
+  text-align: center;
+  color: black;
+  font-size: 1em !important;
+}
+
+/* Remove default margins on the paragraph */
+footer p {
+  margin: 0;
+}
+
+.quick-info {
+  padding: 30px;
+  font-size: 3em !important;
+  text-align: left;
+}
+
+.navbar {
+  padding: 30px;
+}
+
+.accordion-item {
+  padding: 10px;
+}
+
+.intro-section {
+  background-color: #edfcfb;
+}
+
+.social-icon {
+  width: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.secondary-info {
+  margin-bottom: 60px;
+
+}
+
+#my-name {
+  font-family: 'Source Code Pro', monospace;
+}
