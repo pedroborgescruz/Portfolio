@@ -51,6 +51,13 @@ a {
 
 }
 
-#my-name {
+#titles {
   font-family: 'Source Code Pro', monospace;
+}
+
+.call-to-action {
+  font-family: 'Source Code Pro', monospace;
+  padding: 50px;
+  justify-content: center;
+  align-items: center;
 }
