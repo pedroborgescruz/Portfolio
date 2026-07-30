@@ -127,6 +127,13 @@ a {
   color: #4a5520;
 }
 
+/* Base style for the 'All' button */
+.btn-all {
+  background-color: #f3f4f6; /* bg-gray-100 */
+  color: #1f2937;            /* text-gray-800 */
+  border-color: #d1d5db;     /* border-gray-300 */
+}
+
 .book-title {
   font-family: var(--font-source-code-pro), monospace;
   font-weight: 600;
