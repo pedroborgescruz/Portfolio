@@ -99,327 +99,348 @@ export const photos: Photo[] = [
   },
   {
     file: "1.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "downtown",
+    place: "bogotá, colombia",
+    year: 2025,
+    wide: true,
   },
   {
     file: "2.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "downtown",
+    place: "bogotá, colombia",
+    year: 2025,
   },
   {
     file: "3.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "torres del parque",
+    place: "bogotá, colombia",
+    year: 2025,
   },
   {
     file: "4.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "bogotá from the top", // TODO
+    place: "bogotá, colombia",
+    year: 2025,
+    wide: true,
   },
   {
     file: "5.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "city skyline", // TODO
+    place: "bogotá, colombia",
+    year: 2025,
   },
   {
     file: "03120009.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "corn exchange bank",
+    place: "philadelphia, pa",
+    year: 2025,
+    wide: true,
   },
   {
     file: "03120010.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "media trolley",
+    place: "swarthmore, pa", 
+    year: 2025, 
   },
   {
     file: "03120012.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "city center", 
+    place: "philadelphia, pa",
+    year: 2025,
   },
   {
     file: "03120015.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "riverside", // TODO
+    place: "cambridge, ma", // TODO
+    year: 2025, // TODO
+    wide: true,
   },
   {
     file: "03120016.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "building clash", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "03120018.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "snowy clothier", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "03120019.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "film society", // TODO
+    place: "bryn mawr, pa", // TODO
+    year: 2025, // TODO
+    wide: true,
   },
   {
     file: "03120020.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "snowy office", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "03120021.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "chinese naval memorial", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
+    wide: true,
   },
   {
     file: "03120022.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "clothier courtyard", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "03120023.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "bell tower", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "03120024.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "parrish hall", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
+    wide: true,
   },
   {
     file: "03120025.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "ville flower shop", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "03120026.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "ville", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "11350004.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "city hall", // TODO
+    place: "philadelphia, pa", // TODO
+    year: 2025, // TODO
+    wide: true,
   },
   {
     file: "11350005.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "suburban station", // TODO
+    place: "philadelphia, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "11350030.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "claire at wsrn", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2023, // TODO
   },
   {
     file: "11350036.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "accidental shot", // TODO
+    place: "philadelphia, pa", // TODO
+    year: 2023, // TODO
+    wide: true,
   },
   {
     file: "15210001.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "trotter hall", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "15210003.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "philadelphia", // TODO
+    place: "philadelphia, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "15210012.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "pARTy", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
+    wide: true,
   },
   {
     file: "15210013.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "friends", // TODO
+    place: "lang center, swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "15210020.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "trotter hall backyard", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "15210021.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "magnolias in the spring", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
+    wide: true,
   },
   {
     file: "15210022.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "claire next to parrish", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2024, // TODO
   },
   {
     file: "000018820004.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "schönbrunn", 
+    place: "vienna, austria", // TODO
+    year: 2024, // TODO
   },
   {
     file: "000018820007.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "valdštejnská zahrada", // TODO
+    place: "prague, czechia", // TODO
+    year: 2024, // TODO
+    wide: true,
   },
   {
     file: "000018820010.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "fields", // TODO
+    place: "prague, czechia", // TODO
+    year: 2024, // TODO
   },
   {
     file: "000018820013.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "mobility", // TODO
+    place: "prague, czechia", // TODO
+    year: 2024, // TODO
   },
   {
     file: "000018820014.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "building", // TODO
+    place: "prague, czechia", // TODO
+    year: 2024, // TODO
+    wide: true,
   },
   {
     file: "19440004.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "lauren with a friend", // TODO
+    place: "princeton, nj", // TODO
+    year: 2024, // TODO
   },
   {
     file: "19440005.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "bell tower", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2024, // TODO
   },
   {
     file: "19440007.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "bell tower from afar", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2024, // TODO
+    wide: true,
   },
   {
     file: "19440008.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "old city", // TODO
+    place: "philadelphia, pa", // TODO
+    year: 2024, // TODO
   },
   {
     file: "19440010.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "solo day", // TODO
+    place: "philadelphia, pa", // TODO
+    year: 2024, // TODO
+    wide: true,
   },
   {
     file: "19440011.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "whgIII", // TODO
+    place: "philadelphia, pa", // TODO
+    year: 2024, // TODO
   },
   {
     file: "19440017.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "swat shot glasses", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2024, // TODO
   },
   {
     file: "19440022.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "swat drinking table", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2024, // TODO
+    wide: true,
   },
   {
     file: "19440033.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "joey's philly apt", // TODO
+    place: "philadelphia, pa", // TODO
+    year: 2024, // TODO
   },
   {
     file: "19440034.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "ava's wharton room", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
   },
   {
     file: "19440036.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "last swat room", // TODO
+    place: "swarthmore, pa", // TODO
+    year: 2025, // TODO
+    wide: true,
   },
   {
     file: "19450011.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "beach volley", // TODO
+    place: "santa cruz, ca", // TODO
+    year: 2024, // TODO
   },
   {
     file: "19450015.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "roadtrip", // TODO
+    place: "california", // TODO
+    year: 2024, // TODO
+    wide: true,
   },
   {
     file: "19450022.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "golden gate from afar", // TODO
+    place: "san francisco, ca", // TODO
+    year: 2024, // TODO
   },
   {
     file: "19450023.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "andiamo", // TODO
+    place: "san francisco, ca", // TODO
+    year: 2024, // TODO
   },
   {
     file: "19450026.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "lombard st", // TODO
+    place: "san francisco, ca", // TODO
+    year: 2024, // TODO
+    wide: true,
   },
   {
     file: "19450033.JPG",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "isa with purple", // TODO
+    place: "san francisco, ca", // TODO
+    year: 2024, // TODO
   },
   {
     file: "000020940001.jpg",
-    title: "untitled", // TODO
-    place: "", // TODO
-    year: 0, // TODO
+    title: "pražský hrad", // TODO
+    place: "prague, czechia", // TODO
+    year: 2024, // TODO
+    wide: true,
   },
   {
     file: "000020940004.jpg",
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "000020940006.jpg",
@@ -438,6 +459,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "000020940023.jpg",
@@ -456,6 +478,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "000020940029.jpg",
@@ -468,6 +491,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "000020940035.jpg",
@@ -486,6 +510,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "44800010.JPG",
@@ -504,6 +529,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "44800013.JPG",
@@ -516,6 +542,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "44800018.JPG",
@@ -534,6 +561,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "44800022.JPG",
@@ -552,6 +580,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "44800025.JPG",
@@ -564,6 +593,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "44800028.JPG",
@@ -582,6 +612,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "44800031.JPG",
@@ -600,6 +631,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "61490021.JPG",
@@ -612,6 +644,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "61490025.JPG",
@@ -630,6 +663,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "61490029.JPG",
@@ -648,6 +682,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "61490034.JPG",
@@ -660,6 +695,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "61490036.JPG",
@@ -678,6 +714,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "94590006.JPG",
@@ -696,6 +733,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "94590010.JPG",
@@ -708,6 +746,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "94590012.JPG",
@@ -726,6 +765,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "94590015.JPG",
@@ -738,6 +778,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "94590018.JPG",
@@ -756,6 +797,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "94590028.JPG",
@@ -768,6 +810,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "94590031.JPG",
@@ -786,6 +829,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "94590037.JPG",
@@ -804,6 +848,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "scan15522.jpg",
@@ -822,6 +867,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "scan15541.jpg",
@@ -834,6 +880,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "scan15548.jpg",
@@ -852,6 +899,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "scan15568.jpg",
@@ -864,6 +912,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "scan15572.jpg",
@@ -882,6 +931,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "scan15575.jpg",
@@ -894,6 +944,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "scan15581.jpg",
@@ -912,6 +963,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "Scan37010.jpg",
@@ -930,6 +982,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "Scan37027.jpg",
@@ -942,6 +995,7 @@ export const photos: Photo[] = [
     title: "untitled", // TODO
     place: "", // TODO
     year: 0, // TODO
+    wide: true,
   },
   {
     file: "Scan37032.jpg",
