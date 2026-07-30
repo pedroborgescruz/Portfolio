@@ -244,6 +244,18 @@ const sections: Section[] = [
     parentId: "mainAccordionFour",
     items: [
       {
+        id: "nestedFour-collapse2",
+        title: "QuintoAndar",
+        body: (
+          <>
+            Building the AI platform for the biggest Proptech in Latin America.
+            Learning a lot about agents, LLMs, and how to bring value to the company. 
+            The agent I built directly contributed to reducing operation costs in 
+            more than 1 million reais.
+          </>
+        ),
+      },
+      {
         id: "nestedFour-collapse1",
         title: "Stone Co.",
         body: (
