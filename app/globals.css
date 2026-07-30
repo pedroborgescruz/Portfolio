@@ -1,0 +1,357 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  background-color: #a2f0e9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--font-source-code-pro), monospace;
+  padding: 30px;
+  text-align: center;
+  color: black;
+  font-size: 1em !important;
+}
+
+footer p {
+  margin: 0;
+}
+
+.quick-info {
+  padding: 30px;
+  font-size: 3em !important;
+  text-align: left;
+}
+
+.navbar {
+  padding: 30px;
+}
+
+.accordion-item {
+  padding: 10px;
+}
+
+.intro-section {
+  background-color: #edfcfb;
+}
+
+.social-icon {
+  width: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.secondary-info {
+  margin-bottom: 10px;
+  margin-top: 50px;
+}
+
+.titles {
+  font-family: var(--font-source-code-pro), monospace;
+}
+
+.call-to-action {
+  font-family: var(--font-source-code-pro), monospace;
+  padding: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-btn {
+  background-color: #a2f0e9;
+}
+
+.reading-list {
+  padding: 40px 15px 60px;
+  max-width: 720px;
+}
+
+.book-list li {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem 1.5rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid #d8efec;
+  text-align: left;
+}
+
+.book-list li:last-child {
+  border-bottom: none;
+}
+
+.book-main {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 0.75rem;
+}
+
+.book-tag {
+  font-family: var(--font-source-code-pro), monospace;
+  font-size: 0.75em;
+  padding: 0.15em 0.45em;
+  border-radius: 10px;
+  white-space: nowrap;
+}
+
+.tag-comp-sci {
+  background-color: #c8f0eb;
+  color: #1f5c57;
+}
+
+.tag-linguistics {
+  background-color: #d4e4f7;
+  color: #2a4a6e;
+}
+
+.tag-fiction {
+  background-color: #f7d9c8;
+  color: #6e3d2a;
+}
+
+.tag-nonfiction {
+  background-color: #e4d9f0;
+  color: #4a3566;
+}
+
+.tag-business {
+  background-color: #e8efc8;
+  color: #4a5520;
+}
+
+.book-title {
+  font-family: var(--font-source-code-pro), monospace;
+  font-weight: 600;
+}
+
+.book-author {
+  color: #555;
+  font-size: 0.95em;
+}
+
+/* ---------------------------- Ideas --------------------------------------- */
+.ideas-list,
+.idea-page {
+  padding: 40px 15px 60px;
+  max-width: 720px;
+}
+
+.ideas-header {
+  margin-bottom: 1.5rem;
+}
+
+.ideas-heading,
+.idea-title {
+  font-family: var(--font-source-code-pro), monospace;
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin: 0 0 0.5rem;
+  line-height: 1.2;
+}
+
+.idea-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #d8efec;
+}
+
+.idea-date {
+  font-family: var(--font-source-code-pro), monospace;
+  font-size: 0.8em;
+  color: #6a8a86;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin: 0 0 0.75rem;
+}
+
+.idea-subtitle {
+  font-size: 1.15rem;
+  color: #555;
+  margin: 0;
+  line-height: 1.5;
+  max-width: 36em;
+}
+
+.ideas-sub {
+  color: #555;
+  margin: 0;
+}
+
+.idea-list li {
+  padding: 1rem 0;
+  border-bottom: 1px solid #d8efec;
+}
+
+.idea-list li:last-child {
+  border-bottom: none;
+}
+
+.idea-link {
+  font-family: var(--font-source-code-pro), monospace;
+  font-weight: 600;
+  color: #1a1a1a;
+  transition: color 0.2s ease;
+}
+
+.idea-link:hover {
+  color: #2a6b66;
+}
+
+.idea-back {
+  display: inline-block;
+  font-family: var(--font-source-code-pro), monospace;
+  font-size: 0.9em;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.idea-back:hover {
+  color: #2a6b66;
+}
+
+.idea-body {
+  margin-top: 0;
+  line-height: 1.75;
+  color: #333;
+  font-size: 1.05rem;
+}
+
+.idea-body p {
+  margin-bottom: 1.35rem;
+}
+
+.idea-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* From Uiverse.io by kelvin_9865 — adapted for photo hover */
+.tooltip-container {
+  position: relative;
+}
+
+.tooltip {
+  position: absolute;
+  bottom: auto;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  background: #fff;
+  color: #1a1a1a;
+  padding: 12px 18px;
+  border-radius: 12px;
+  border: 1px solid #e5e5e5;
+  font-family: var(--font-source-code-pro), monospace;
+  font-size: 13px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  white-space: nowrap;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    opacity 0.4s ease,
+    transform 0.4s ease,
+    visibility 0.4s ease;
+}
+
+.tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 8px;
+  border-style: solid;
+  border-color: #fff transparent transparent transparent;
+}
+
+.tooltip-container:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+  transform: translate(-50%, -50%);
+}
+
+/* ---------------------------- Photo gallery -------------------------------- */
+.photo-page {
+  padding: 20px 24px 60px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.photo-header {
+  margin-bottom: 2rem;
+}
+
+.photo-heading {
+  font-size: 2rem;
+  margin-bottom: 0.35rem;
+}
+
+.photo-sub {
+  color: #555;
+  margin: 0;
+}
+
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.photo-item {
+  position: relative;
+  flex: 1 1 240px;
+  margin: 0;
+  min-height: 220px;
+  background-color: #edfcfb;
+  cursor: pointer;
+  transition: transform 0.35s ease;
+}
+
+.photo-item--wide {
+  flex: 2 1 400px;
+  min-height: 260px;
+}
+
+.photo-item--tall {
+  flex: 1 1 200px;
+  min-height: 320px;
+}
+
+.photo-frame {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  background-color: #edfcfb;
+}
+
+.photo-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: opacity 0.35s ease, transform 0.35s ease;
+}
+
+.photo-item:hover .photo-frame img {
+  opacity: 0.92;
+  transform: scale(1.02);
+}
+
+@media (max-width: 576px) {
+  .photo-item,
+  .photo-item--wide,
+  .photo-item--tall {
+    flex: 1 1 100%;
+    min-height: 220px;
+  }
+}
