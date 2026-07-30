@@ -244,7 +244,7 @@ const sections: Section[] = [
     parentId: "mainAccordionFour",
     items: [
       {
-        id: "nestedFour-collapse2",
+        id: "nestedFour-collapse1",
         title: "QuintoAndar",
         body: (
           <>
@@ -256,7 +256,7 @@ const sections: Section[] = [
         ),
       },
       {
-        id: "nestedFour-collapse1",
+        id: "nestedFour-collapse2",
         title: "Stone Co.",
         body: (
           <>
@@ -276,7 +276,7 @@ const sections: Section[] = [
         ),
       },
       {
-        id: "nestedFour-collapse2",
+        id: "nestedFour-collapse3",
         title: "ImpulsoGov",
         body: (
           <>
