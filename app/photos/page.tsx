@@ -23,6 +23,7 @@ export default function PhotosPage() {
               <img
                 src={`/assets/photography/${photo.file}`}
                 alt={photo.title}
+                loading="lazy"
               />
             </div>
             {photo.title !== "untitled" ? (
