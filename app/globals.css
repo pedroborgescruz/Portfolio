@@ -12,7 +12,13 @@ body {
 }
 
 footer {
-  background-color: #a2f0e9;
+  background: linear-gradient(
+    90deg, 
+    #b9f4ff 0%,    /* Bright cyan/blue on the far left */
+    #f8f9e6 70%,   /* Near-white/neutral center-right blend */
+    #fff3bf 100%   /* Warm soft yellow on the far right */
+  );  backdrop-filter: blur(8px);
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -42,7 +48,15 @@ footer p {
 }
 
 .intro-section {
-  background-color: #edfcfb;
+  background: linear-gradient(
+    90deg, 
+    #7ee8fa 0%,    /* Bright cyan/blue on the far left */
+    #eec0f3 35%,   /* Soft pastel pink-purple transition */
+    #f8f9e6 70%,   /* Near-white/neutral center-right blend */
+    #ffe885 100%   /* Warm soft yellow on the far right */
+  );
+  /* Ensure the background covers the entire screen height */
+  margin: 0;
 }
 
 .social-icon {

@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container-fluid">
         <div className="container text-center">
           <div className="row">
-            <strong>{"< Made with 🩷⁠ >"}</strong>
+            <strong>{"< feito com 🩷⁠ >"}</strong>
           </div>
           <div className="row">
             <div className="col">
