@@ -28,12 +28,18 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={sourceCodePro.variable}>
-      <body>
+    <html lang="en" className={`${sourceCodePro.variable} h-100`}>
+      <body className="d-flex flex-column h-100">
         <BootstrapClient />
         <Navbar />
-        {children}
-        <Footer />
+        
+        <main className="flex-shrink-0">
+          {children}
+        </main>
+
+        <div className="mt-auto">
+          <Footer />
+        </div>
       </body>
     </html>
   );
