@@ -1,14 +1,25 @@
-import type { Metadata } from "next";
-import { Source_Code_Pro } from "next/font/google";
+import type { Metadata, Viewport } from "next";
+import { Source_Code_Pro, Syne } from "next/font/google";
 import BootstrapClient from "@/components/BootstrapClient";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import "./globals.css";
 
+const syne = Syne({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700", "800"],
+  variable: "--font-syne",
+});
+
 const sourceCodePro = Source_Code_Pro({
   subsets: ["latin"],
   variable: "--font-source-code-pro",
 });
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+}
 
 export const metadata: Metadata = {
   title: {
@@ -29,7 +40,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${sourceCodePro.variable} h-100`}>
-      <body className="d-flex flex-column h-100">
+      <body className={`d-flex flex-column h-100 ${syne.variable}`}>
         <BootstrapClient />
         <Navbar />
         

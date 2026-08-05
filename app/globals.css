@@ -1,4 +1,8 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+@import "tailwindcss";
+
+@theme {
+  --font-syne: var(--font-syne);
+}
 
 html, body {
   height: 100%;
@@ -9,6 +13,12 @@ html, body {
 body {
   display: flex;
   flex-direction: column;
+}
+
+@layer utilities {
+  .hero-gradient {
+    background: linear-gradient(135deg, #ef4444 0%, #eab308 33%, #06b6d4 66%, #10b981 100%);
+  }
 }
 
 footer {
